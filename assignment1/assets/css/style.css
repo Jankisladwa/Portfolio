@@ -1,0 +1,257 @@
+body{
+	padding: 0px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777777;
+
+}	
+
+
+.header{
+	width:100%;
+	background: #ffffff;
+	border-bottom: 2px solid #777777;
+	top:0;
+	margin:auto 0px;
+	position: fixed;
+
+
+}
+
+.logo{
+	float:left;
+	padding:21px;
+	color:white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: lightseagreen;
+	margin-left: 95px;
+	margin-top: 10px;
+
+}
+
+ul{
+    position: relative;
+    margin: 10px 360px 10px;
+}
+
+ul.nav li a{
+	text-decoration: none;
+    float: left;
+    list-style-type: none;
+    margin: 20px 0px 0 10px;
+    color: #777777;
+    border-right: 2px solid #cfd3d4;
+    padding-right: 30px
+}
+
+li{
+	float:right;
+	margin:10px;
+	padding-top: 10px;
+	display: inline;
+	
+}
+
+/* About me section */
+
+.container{
+	margin-top: 90px;
+	background-image: url(../images/sayagata-400px.png);
+	height: 960px;
+
+}
+
+.aboutme{
+	width:650px;
+	background-color: white;
+	margin-left: 95px;
+	margin-top: 100px;
+	float:left;
+	border: solid 2px #cfd3d4;
+
+}
+
+.aboutme h1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom: 2px solid #777777;
+	margin-left: 10px;
+	margin-right: 10px;
+	color:lightseagreen;
+}
+
+h1{
+	font-size: 45px;
+}
+p{
+	font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0px;
+	margin: 10px;
+
+}
+	
+img{float:left;
+	width: 43%;
+	margin: 22px
+}
+
+/* Sidebar */
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	margin: 25px 10px 0px 10px;
+	color: lightseagreen;
+
+}
+.sidebar{
+	height:200px;
+	float:right;
+	margin-right: 400px;
+	background-color: white;
+	margin-top: 100px;
+	border: solid 2px #cfd3d4;
+
+}
+
+.logo2{ 
+	border-top: 2px solid #777777;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.sidebar a img{
+	width: 45px;
+	margin-right:15px;
+	margin-top: 20px;
+
+}
+
+#connect{
+	width:300px;
+}
+
+/*footer*/
+.footer{
+	width:100%;
+	height: 80px;
+	background: grey;
+	bottom:0%;
+	color: white;
+	clear: both;
+	position: sticky;
+	border-top: lightseagreen;
+}
+
+h3{
+	text-align: center;
+    position: relative;
+    top: 31px;
+}
+
+/* PORTFOLIO PAGE*/
+
+
+.container{
+	margin-top: 90px;
+	background-image: url(../images/sayagata-400px.png);
+	height: 960px;
+
+}
+
+.portfolio{
+	width:650px;
+	background-color: white;
+	margin-left: 95px;
+	margin-top: 100px;
+	float:left;
+	border: solid 2px #cfd3d4;
+
+}
+
+.portfolio h1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom: 2px solid #777777;
+	margin-left: 10px;
+	margin-right: 10px;
+	color:lightseagreen;
+}
+
+h1{
+	font-size: 45px;
+}
+	
+div .portfolio img{
+	width: 270px;
+	height:200px;
+	margin: 30px
+	portfolio: relative;
+	align-content: block;
+	image-rendering: 
+
+}
+
+/* CONTACT PAGE */
+
+.container2{
+	margin-top: 90px;
+	background-image: url(../images/sayagata-400px.png);
+	height: 960px; 
+}
+
+.textbox{
+	margin-left: 95px;
+	margin-top: 99px;
+}
+
+
+
+.sidebar2{
+	height:200px;
+	float:right;
+	margin-right: 400px;
+	background-color: white;
+	margin-top: -600px;
+	border: solid 2px #cfd3d4;
+	color:grey;
+
+}
+
+.logo2{ 
+	border-top: 2px solid #777777;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.sidebar2 a img{
+	width: 45px;
+	margin-right:15px;
+	margin-top: 20px;
+
+}
+
+.sidebar2 h2{
+	color:;
+}
+
+@media screen{
+	980px 768px 640px;
+}
+
+
+
+			
+
+
+
+
+
+
+
+
+
+	
+
+
+
